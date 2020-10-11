@@ -10,4 +10,5 @@ References:
 1. https://projects.raspberrypi.org/en/projects/getting-started-with-the-twitter-api
 2. https://projects.raspberrypi.org/en/projects/dress-for-the-weather
 3. https://towardsdatascience.com/weather-data-collection-web-scraping-using-python-a4189e7a2ee6
+4. https://twython.readthedocs.io/en/latest/
 
